@@ -1,0 +1,11 @@
+# Ignore Visual Studio user and cache files
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore ASP.NET Core settings
+appsettings.Development.json
